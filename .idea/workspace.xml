@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3245936-8cc7-491d-99a9-c4eedaa73c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/Array.java" afterDir="false" />
+    <list default="true" id="d3245936-8cc7-491d-99a9-c4eedaa73c03" name="Changes" comment="Arrays &#10;Various ways to initialize array and passing array into a method">
+      <change afterPath="$PROJECT_DIR$/src/Array/Average_Of_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Average_Of_Array">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Array" />
       <module name="Udemy" />
@@ -52,9 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControlStatement.parsingValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlStatement.parsingValues" />
+    <configuration name="Average_Of_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Average_Of_Array" />
       <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Average_Of_Array" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.For" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.ControlStatement.parsingValues" />
       </list>
     </recent_temporary>
   </component>
@@ -118,8 +124,16 @@
       <workItem from="1670288953965" duration="11000" />
       <workItem from="1670488835856" duration="1231000" />
       <workItem from="1671313653101" duration="651000" />
-      <workItem from="1671494499453" duration="3306000" />
+      <workItem from="1671494499453" duration="6721000" />
     </task>
+    <task id="LOCAL-00001" summary="Arrays &#10;Various ways to initialize array and passing array into a method">
+      <created>1671498686635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671498686635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arrays &#10;Various ways to initialize array and passing array into a method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays &#10;Various ways to initialize array and passing array into a method" />
   </component>
 </project>
