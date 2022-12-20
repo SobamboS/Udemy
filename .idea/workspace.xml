@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3245936-8cc7-491d-99a9-c4eedaa73c03" name="Changes" comment="Arrays &#10;Various ways to initialize array and passing array into a method">
-      <change afterPath="$PROJECT_DIR$/src/Array/Average_Of_Array.java" afterDir="false" />
+    <list default="true" id="d3245936-8cc7-491d-99a9-c4eedaa73c03" name="Changes" comment="&quot;&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Array/Challenge/SortingOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Average_Of_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Average_Of_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlStatement/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStatement/Challenge/Challenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +40,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Average_Of_Array">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Array.Challenge.SortingOfArray">
+    <configuration name="Array.Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Array" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Array.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Average_Of_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Array.Average_Of_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Average_Of_Array" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Array.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +67,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Array.Challenge.SortingOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Challenge.SortingOfArray" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.Challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControlStatement.For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlStatement.For" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ControlStatement.*" />
+          <option name="PATTERN" value="ControlStatement.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,33 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ControlStatement.PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlStatement.PrimeNumbers" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ControlStatement.*" />
+          <option name="PATTERN" value="ControlStatement.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Average_Of_Array" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.For" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Array.Challenge.SortingOfArray" />
+        <item itemvalue="Application.Array.Average_Of_Array" />
+        <item itemvalue="Application.Array.Array" />
+        <item itemvalue="Application.ControlStatement.PrimeNumbers" />
+        <item itemvalue="Application.ControlStatement.For" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +132,7 @@
       <workItem from="1670288953965" duration="11000" />
       <workItem from="1670488835856" duration="1231000" />
       <workItem from="1671313653101" duration="651000" />
-      <workItem from="1671494499453" duration="6721000" />
+      <workItem from="1671494499453" duration="13427000" />
     </task>
     <task id="LOCAL-00001" summary="Arrays &#10;Various ways to initialize array and passing array into a method">
       <created>1671498686635</created>
@@ -133,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671498686635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;&quot;">
+      <created>1671507998361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671507998361</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Arrays &#10;Various ways to initialize array and passing array into a method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays &#10;Various ways to initialize array and passing array into a method" />
+    <MESSAGE value="&quot;&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;&quot;" />
   </component>
 </project>

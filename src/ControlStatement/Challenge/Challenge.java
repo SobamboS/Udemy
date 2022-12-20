@@ -1,4 +1,4 @@
-package ControlStatement;
+package ControlStatement.Challenge;
 
 import java.util.Scanner;
 
