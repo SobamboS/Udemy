@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3245936-8cc7-491d-99a9-c4eedaa73c03" name="Changes" comment="&quot;&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Array/Challenge/MinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/GroceryList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +131,7 @@
       <workItem from="1670288953965" duration="11000" />
       <workItem from="1670488835856" duration="1231000" />
       <workItem from="1671313653101" duration="651000" />
-      <workItem from="1671494499453" duration="17906000" />
+      <workItem from="1671494499453" duration="19703000" />
     </task>
     <task id="LOCAL-00001" summary="Arrays &#10;Various ways to initialize array and passing array into a method">
       <created>1671498686635</created>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671523407621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;&quot;">
+      <created>1671539292854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671539292854</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
